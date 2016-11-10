@@ -1,0 +1,1 @@
+This a gallery app that heps you read and search contents written within the pictures, and has secret lock system.
